@@ -148,7 +148,7 @@ export function TechEcosystem() {
   ]
 
   // Ajustar altura do container com base no dispositivo
-  const containerHeight = isMobile ? 1000 : 600
+  const containerHeight = isMobile ? 250 : 600
 
   return (
     <div
@@ -156,7 +156,7 @@ export function TechEcosystem() {
       style={{
         height: containerHeight,
         // On mobile, add margin-bottom
-        marginBottom: isMobile ? "100px" : "0",
+        marginBottom: isMobile ? "750px" : "0",
       }}
     >
       {/* Central circle - posicionamento fixo */}

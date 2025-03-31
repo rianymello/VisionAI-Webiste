@@ -34,7 +34,7 @@ export default function Home() {
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-4">
                   <a
-                    href="https://drive.google.com/file/d/1swN32wgaW8GvGB9vOMpaPbPw5t2-mOo3/view?usp=sharing"
+                    href="https://github.com/rianymello/VisionAI-artificialintelligence.git"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
